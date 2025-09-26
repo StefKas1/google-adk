@@ -1,0 +1,6 @@
+.env
+.venv
+**/*pyc
+
+/.ruff_cache
+/src/__pycache__
